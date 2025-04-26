@@ -57,6 +57,7 @@ class Test_admin_Login:
         self.driver.close()
 
     @pytest.mark.sanity
+    @pytest.mark.regression
     def test_invalid_valid_login(self, setup):
         self.logger.info("##### invalid login Test case-3 #####")
         self.driver = setup

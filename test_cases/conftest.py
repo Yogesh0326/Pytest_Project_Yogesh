@@ -34,7 +34,8 @@ def pytest_configure(config):
     config.stash[metadata_key]['Tester'] = 'Yogesh'
 
 # hook for delete/modify environmental info in html report ##############
-@pytest.mark.optionalhook
+# @pytest.mark.optionalhook
+@pytest.hookimpl(optionalhook=True)
 def pytest_metadata(metadata):
     metadata.pop('JAVA_HOME', None)
     metadata.pop('Plugins', None)

@@ -190,3 +190,24 @@
 2025-04-26 15:23:08 - INFO - ##### test_valid_login_data_driven 1 #####
 2025-04-26 15:23:21 - INFO - test case passed
 2025-04-26 15:23:21 - INFO - test admin login data driven test case passed
+2025-04-26 21:50:14 - INFO - ##### Title verification Test case-1 ######
+2025-04-26 21:50:18 - INFO - ##### Title verification title matched #####
+2025-04-26 21:50:20 - INFO - ##### valid login Test case-2  #####
+2025-04-26 21:50:27 - INFO - ##### invalid login Test case-3 #####
+2025-04-26 21:50:35 - INFO - ##### test_valid_login_data_driven 1 #####
+2025-04-26 21:50:40 - INFO - test case passed
+2025-04-26 21:50:40 - INFO - test admin login data driven test case passed
+2025-04-26 22:00:34 - INFO - ##### Title verification Test case-1 ######
+2025-04-26 22:00:38 - INFO - ##### Title verification title matched #####
+2025-04-26 22:00:40 - INFO - ##### valid login Test case-2  #####
+2025-04-26 22:00:47 - INFO - ##### invalid login Test case-3 #####
+2025-04-26 22:00:55 - INFO - ##### test_valid_login_data_driven 1 #####
+2025-04-26 22:00:59 - INFO - test case passed
+2025-04-26 22:00:59 - INFO - test admin login data driven test case passed
+2025-04-26 22:06:52 - INFO - ##### Title verification Test case-1 ######
+2025-04-26 22:06:56 - INFO - ##### Title verification title matched #####
+2025-04-26 22:06:58 - INFO - ##### valid login Test case-2  #####
+2025-04-26 22:07:05 - INFO - ##### invalid login Test case-3 #####
+2025-04-26 22:07:14 - INFO - ##### test_valid_login_data_driven 1 #####
+2025-04-26 22:07:18 - INFO - test case passed
+2025-04-26 22:07:18 - INFO - test admin login data driven test case passed
